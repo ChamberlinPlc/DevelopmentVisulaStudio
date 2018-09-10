@@ -1,0 +1,2 @@
+# DevelopmentVisulaStudio
+for vs code
